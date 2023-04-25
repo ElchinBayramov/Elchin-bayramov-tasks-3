@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#div1{
+    background-color: black;
+    color: white;
+    height: 70px;
+    max-width: ;
+    margin-top: 8px;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+    padding-top: 20px;
+
+}
+#div2{
+    padding-left: 50px;
+    padding-top: 50px;
+
+}
+#div5{
+  
+    padding-left: 50px;
+    padding-top: 58px;
+
+}
+.container
+{
+    display: flex;
+}
+#div3{
+    background-color: bisque;
+    height: 200PX;
+    width: 200px;
+    text-align: center;
+    padding-top: 90px;
+}
+
+
+
+#div4{
+    background-color: white;
+    width: 535px;
+    height: 200px;
+    padding-left: 10px;
+}

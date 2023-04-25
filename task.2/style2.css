@@ -1,0 +1,14 @@
+h1{
+    text-align: left;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}

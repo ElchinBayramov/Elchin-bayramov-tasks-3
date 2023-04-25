@@ -1,0 +1,38 @@
+.div1{
+    max: width 300px;;
+    height: 70px;
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+    font-size: xx-large;
+    padding-top: 10px;
+    d
+}
+.container
+{
+    display: flex;
+}
+.div2{
+    height: 600px;
+    background-color: white;
+    width: 240px;
+    margin-top: 30px;
+
+}
+.div3{
+    height: 600px;
+    background-color: white;
+    width: 1000px;
+    margin-top: 30px;
+    width: 598px-240px;
+    color: black;
+    margin-top: 33px;
+
+
+}
+.div4{
+    background-color: slategray;
+    text-align: right;
+}
